@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E8AB3D2C-37EE-4759-BA48-DC61AD57E058}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Upcasting.Downcasting/Program.cs">
+    <Files>
+      <File FileName="Upcasting.Downcasting/Program.cs" Line="20" Column="1" />
+      <File FileName="Upcasting.Downcasting/ExtensionMethods.cs" Line="63" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Upcasting.Downcasting" expanded="True">
+            <Node name="Upcasting.Downcasting" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Upcasting.Downcasting FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
